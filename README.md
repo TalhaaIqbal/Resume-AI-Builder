@@ -1,14 +1,5 @@
 <div align="center">
   <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=393D72" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white&color=1FAD58" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=3FBFF8" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logo=clerk&logoColor=white&color=7C3AFF" alt="Clerk" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&color=387CC8" alt="TypeScript" />
-  </div>
-
   <h1>📄 ResumeAI</h1>
 
   <p>
@@ -17,7 +8,6 @@
   </p>
 
   <br />
-  <a href="https://resume-ai-app.vercel.app/"><strong>🔗 Visit Live App</strong></a>
 </div>
 
 ---
@@ -58,6 +48,6 @@ Ensure the following are installed:
 ### 🔄 Clone & Install
 
 ```bash
-git clone https://github.com/Mahmud0808/ResumeAI.git
+git clone https://github.com/TalhaaIqbal/Resume-AI-Builder
 cd ResumeAI
 npm install
